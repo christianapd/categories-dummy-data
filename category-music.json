@@ -1,0 +1,42 @@
+[
+  {
+    "name":"Creator",
+    "image":"https://creator-house.com/wp-content/uploads/2019/02/home-page-1.jpg"
+  },
+  {
+    "name":"Generation",
+    "image":"https://cdn5.vectorstock.com/i/1000x1000/78/94/multi-generation-family-on-white-background-vector-21197894.jpg"
+  },
+  {
+    "name":"File Format",
+    "image":"https://png.pngitem.com/pimgs/s/26-268641_audio-files-circle-hd-png-download.png"
+  },
+  {
+    "name":"Languange",
+    "image":"https://acutrans.com/wp-content/uploads/2020/07/languages-around-the-world-1024x710.png"
+  },
+  {
+    "name":"Classical",
+    "image":"https://assets.ltkcontent.com/images/10709/classical-music-violin_e27c8ce1fd.jpg"
+  },
+  {
+    "name":"Country",
+    "image":"https://www.nationsonline.org/gallery/World/World-map-countries-flags.jpg"
+  },
+  {
+    "name":"Electronic dance music (EDM)",
+    "image":"https://cdn.britannica.com/00/190900-050-74D1C311/DJ-crowd.jpg"
+  },
+  {
+    "name":"Hip-hop",
+    "image":"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2021-07/210709-hip-hop-health-2x1-cs-82a3c6.jpg"
+  },
+  {
+    "name":"K-pop",
+    "image":"https://api.time.com/wp-content/uploads/2020/12/best-of-k-pop-2020.jpg"
+  },
+  {
+    "name":"Singer",
+    "image":"https://media.istockphoto.com/vectors/girl-singing-silhouette-vector-id868368832?k=20&m=868368832&s=612x612&w=0&h=RdSKnRETsyv0csexX7MzwgOmQwn7cH0GiMgiBuL0H5U="
+  }
+]

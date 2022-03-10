@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Animation",
+    "image": "https://i.ytimg.com/vi/7EWLeynJ5_w/maxresdefault.jpg"
+  },
+  {
+    "name": "Animals",
+    "image": "https://a-z-animals.com/media/2021/01/mammals-400x300.jpg"
+  },
+  {
+    "name": "Vehicles",
+    "image": "https://7esl.com/wp-content/uploads/2017/12/Transportation.jpg"
+  },
+  {
+    "name": "Comedy",
+    "image": "https://m.media-amazon.com/images/G/01/seo/siege-lists/best-comedy-audiobooks-social.jpg"
+  },
+  {
+    "name": "Sports",
+    "image": "https://static01.nyt.com/images/2020/07/21/autossell/sports-reboot-promo-still/sports-reboot-promo-still-videoSixteenByNineJumbo1600.jpg"
+  },
+  {
+    "name": "Events",
+    "image": "https://media-exp1.licdn.com/dms/image/C561BAQE-51J-8KkMZg/company-background_10000/0/1548357920228?e=2147483647&v=beta&t=wrOVYN8qrGon9jILrMQv78FsyOV4IMQxr_3UjYtUREI"
+  },
+  {
+    "name": "Gaming",
+    "image": "https://signal.avg.com/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/9%20Ways%20to%20Boost%20Your%20Gaming%20Rig/How_to_Improve_Your_Gaming_PC_Performance-Hero.jpg"
+  },
+  {
+    "name": "Entertainment",
+    "image": "https://reflectionsglobal.com/wp-content/uploads/2020/10/media_entertainment.png"
+  },
+  {
+    "name": "Politics",
+    "image": "https://www.voicesofyouth.org/sites/voy/files/images/2019-01/politics3.jpg"
+  },
+  {
+    "name": "Technology",
+    "image": "https://abmhegel.files.wordpress.com/2019/02/information-technology-services-500x500.jpg"
+  }
+]

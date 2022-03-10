@@ -1,0 +1,42 @@
+[
+  {
+    "name":"Music",
+    "image":"https://openai.com/content/images/2020/04/2x-no-mark-1.jpg"
+  },
+  {
+    "name":"Movie",
+    "image":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-movies-1614634680.jpg"
+  },
+  {
+    "name":"Event",
+    "image":"https://res.cloudinary.com/eventboost/image/upload/v1594283388/website/wp/eventboost-facebook-og-home.jpg"
+  },
+  {
+    "name":"Webinar",
+    "image":"https://www.callcentrehelper.com/images/stories/2020/11/webinar-screen-760.gif"
+  },
+  {
+    "name":"Concert",
+    "image":"https://static.dw.com/image/18920718_403.jpg"
+  },
+  {
+    "name":"Comedy Show",
+    "image":"https://thecomedyclub.co.uk/header_images/_blogImage/The-Comedy-Club-Comedians_170724_113823.jpg"
+  },
+  {
+    "name":"TV Show",
+    "image":"https://www.popoptiq.com/wp-content/uploads/2019/05/tv-shows-may272019-min.jpg"
+  },
+  {
+    "name":"Seminars",
+    "image":"https://www.thebalancesmb.com/thmb/id_-U8QeOMb-aK4fPxOPv3P1ffg=/1255x837/filters:fill(auto,1)/GettyImages-530685909-56a2b3725f9b58b7d0cd87c6.jpg"
+  },
+  {
+    "name":"Trade shows",
+    "image":"https://www.liveadmins.com/wp-content/uploads/2016/03/trade-show.jpg"
+  },
+  {
+    "name":"Workshops",
+    "image":"https://images.ctfassets.net/a6zo0szqvm4a/4206xsMAsXBGDTkf7wVsXL/288b46a258193dc089b4b16d451308e6/Collaborative_workshop_meta2.png"
+  }
+]

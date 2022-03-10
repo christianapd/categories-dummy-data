@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Fashions",
+    "image": "https://i.ytimg.com/vi/ZsfQiPGXB-w/hqdefault.jpg"
+  },
+  {
+    "name": "Foods & Beverage",
+    "image": "https://www.socialtables.com/wp-content/uploads/2016/09/dinner-meal-table-wine.jpg"
+  },
+  {
+    "name": "Home Appliances",
+    "image": "https://techbullion.com/wp-content/uploads/2021/07/Home-Appliances-Wet-and-Cold-1280x720.jpg"
+  },
+  {
+    "name": "Kitchen Tools",
+    "image": "https://thumbor.thedailymeal.com/ZKxXh3oAeCUKvuAKbqZ8TNm6BZk=//https://www.thedailymeal.com/sites/default/files/2018/10/05/Kitchen_Tools_HERO.jpg"
+  },
+  {
+    "name": "Furniture",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/amazon-rivet-furniture-1533048038.jpg?crop=1.00xw:0.502xh;0,0.423xh&resize=1200:*"
+  },
+  {
+    "name": "Electronics",
+    "image": "http://www.polytechnichub.com/wp-content/uploads/2017/04/Electronic.jpg"
+  },
+  {
+    "name": "Toys",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Wooden_toys_%28cropped%29.JPG"
+  },
+  {
+    "name": "Household Care",
+    "image": "https://www.expertmarketresearch.com/files/images/Top-Household-Care-Products-Manufacturers-in-the-World.jpg"
+  },
+  {
+    "name": "Groceries",
+    "image": "https://images.theconversation.com/files/282104/original/file-20190701-105182-1q7a7ji.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop"
+  },{
+    "name": "Fruits",
+    "image": "https://www.unlockfood.ca/EatRightOntario/media/Website-images-resized/How-to-store-fruit-to-keep-it-fresh-resized.jpg"
+  }
+  
+]

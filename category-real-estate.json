@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Residential",
+    "image": "https://media.istockphoto.com/photos/aerial-view-of-residential-houses-at-autumn-american-neighborhood-picture-id1181134074?k=20&m=1181134074&s=612x612&w=0&h=VhYyfsM3qSeTPln5Mb3BanuLWV68qzOBw-mr8Jn0OYc="
+  },
+  {
+    "name": "Commercial",
+    "image": "https://i.epochtimes.com/assets/uploads/2018/12/829a920dc2910149dcbcfbb00f918aaa-600x400.jpg"
+  },
+  {
+    "name": "Industrial",
+    "image": "https://adidharma.co/wp-content/uploads/2019/01/d-blog-dhumb-05.jpg"
+  },
+  {
+    "name": "Raw land",
+    "image": "https://landcentral-production.s3.amazonaws.com/wp-content/uploads/2018/06/Blog-1_Flipping-Land.jpg"
+  },
+  {
+    "name": "Real Estate Investment Trust (REIT)",
+    "image": "https://www.reit.com/sites/default/files/2020-03/GettyImages-547455075_medium.jpg"
+  },
+  {
+    "name": "Country",
+    "image": "https://pbs.twimg.com/media/CCNxWJdUAAEo7Pq.png"
+  },
+  {
+    "name": "City",
+    "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGNpdHl8ZW58MHx8fHwxNjI4NzczNTQ5&ixlib=rb-1.2.1&q=80&w=1080"
+  },
+  {
+    "name": "Province",
+    "image": "https://subaybay-dev.dilg.gov.ph/uploads/projectimages/acd04c01f7f5072c8214cb4211c09b68.JPG"
+  },
+  {
+    "name": "House",
+    "image": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg"
+  },
+  {
+    "name": "Land",
+    "image": "https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80"
+  }
+]
